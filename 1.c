@@ -5,3 +5,9 @@ This is tow line charatcer
 
 Git is ooo
 git is free xxx
+
+
+
+INT
+CHAR
+STRING
